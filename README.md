@@ -1,4 +1,6 @@
 # My-demo
 This is my first Git repository
 <br>
-Author- Souvik Dey
+Author- Souvik Dey(Student of Brainware University)
+
+
